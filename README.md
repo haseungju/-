@@ -72,4 +72,5 @@
 
 ---
 
-※ 본 프로젝트의 상세한 데이터 분석 내용과 구체적인 개선 방안은 발표 자료를 참고 바랍니다.
+※ 본 프로젝트의 상세한 데이터 분석 내용과 구체적인 개선 방안은 하단 발표 자료를 참고 바랍니다.
+https://drive.google.com/file/d/1fzFUA3jqheqqx2sKDynSLAOAyESw8ZFY/view?usp=sharing
